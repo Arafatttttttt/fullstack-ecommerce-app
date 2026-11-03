@@ -255,11 +255,11 @@ npm test
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
+
 
 ## 👤 Author
 
-Your Name
+Mynzhassar Arafat
 
 ## 🙏 Acknowledgments
 
@@ -268,6 +268,3 @@ Your Name
 - Tailwind CSS for utility-first styling
 - Prisma for excellent ORM experience
 
-## 📞 Support
-
-For support, please open an issue in the repository or contact the maintainer.
